@@ -5,7 +5,7 @@
 ### Main projects
 
 [Music Theme Prediction](/pdf/Music_Theme_Prediction_Model.pdf)
-<img src="images/dymmy_thumbanil.jpg?raw=true"/>
+<img src="images/m1.jpg?raw=true"/>
 
 ---
 [Gene expression profile analysis](/pdf/DSP_GSanalysis.pdf)
