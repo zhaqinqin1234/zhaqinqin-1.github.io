@@ -9,7 +9,7 @@
 
 ---
 [Gene expression profile analysis](/pdf/DSP_GSanalysis.pdf)
-<img src="images/dymmy_thumbanil.jpg?raw=true"/>
+<img src="images/volcanoG3.png?raw=true"/>
 
 ---
 [Project 3 ](/images/heatmap_CRC_H4a.png)
