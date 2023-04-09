@@ -12,8 +12,8 @@
 <img src="images/dymmy_thumbanil.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/heatmap_CRC_H4a?raw=true"/>
+[Project 3 Title](http:/images/heatmap_CRC_H4a.jpg)
+<img src="images/heatmap_CRC_H4a.jpg?raw=true"/>
 
 ---
 
