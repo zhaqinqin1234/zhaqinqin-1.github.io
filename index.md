@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Music Theme Prediction](/images)
-<img src="images/Music_Theme_Prediction_Model.pdf?raw=true"/>
+[Music Theme Prediction](/pdf/Music_Theme_Prediction_Model.pdf)
+<img src="pdf/Music_Theme_Prediction_Model.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
