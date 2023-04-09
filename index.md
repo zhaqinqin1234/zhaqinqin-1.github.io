@@ -12,8 +12,8 @@
 <img src="images/dymmy_thumbanil.jpg?raw=true"/>
 
 ---
-[Project 3 ](/images/heatmap_CRC_H4a.jpg)
-<img src="images/dymmy_thumbanil.jpg?raw=true"/>
+[Project 3 ](/images/heatmap_CRC_H4a.png)
+<img src="images/heatmap_CRC_H4a.png?raw=true"/>
 
 ---
 
