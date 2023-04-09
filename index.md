@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Music Theme Prediction](/pdf/Music_Theme_Prediction_Model.pdf)
-<img src="pdf/Music_Theme_Prediction_Model.pdf?raw=true"/>
+<img src="images/dymmy_thumbanil.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/Music_Theme_Prediction_Model.pdf?raw=true"/>
+<img src="images/dymmy_thumbanil.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
