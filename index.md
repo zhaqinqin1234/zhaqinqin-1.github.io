@@ -12,7 +12,7 @@
 <img src="images/dymmy_thumbanil.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http:/images/heatmap_CRC_H4a.jpg)
+[Project 3 Title](/images/heatmap_CRC_H4a.jpg)
 <img src="images/heatmap_CRC_H4a.jpg?raw=true"/>
 
 ---
