@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Publications
 
 - [Project 1 Title] (Music theme prediction)
 - [Project 2 Title] (Digital spatial profiling)
