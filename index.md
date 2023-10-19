@@ -19,9 +19,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title]Music theme prediction
-- [Project 2 Title]Digital spatial profiling
-- [Project 3 Title]Colorectal Cancer molecular profiling
+- [Project 1 Title] (Music theme prediction)
+- [Project 2 Title] (Digital spatial profiling)
+- [Project 3 Title] (Colorectal Cancer molecular profiling)
 - [Project 4 Title](/pdf/SITC_CRCmutations188_2023.pdf)
 
 
